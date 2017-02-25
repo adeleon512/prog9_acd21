@@ -1,0 +1,18 @@
+Picker ID   Total Wgt/Wk    Avg Wgt/Day
+
+1234        2596.7 lbs     371.0 lbs/day
+2345        2809.0 lbs     401.3 lbs/day
+1122        3026.3 lbs     432.3 lbs/day
+3232        3187.6 lbs     455.4 lbs/day
+
+Picker 3232 had the highest avg wgt/day of 455.4 lbs
+
+Day # 0 total picked is 1400.1 lbs
+Day # 1 total picked is 1438.3 lbs
+Day # 2 total picked is 1739.0 lbs
+Day # 3 total picked is 1652.4 lbs
+Day # 4 total picked is 1976.4 lbs
+Day # 5 total picked is 1433.5 lbs
+Day # 6 total picked is 1979.9 lbs
+
+Picker ID # 1122 picked 654.2 lbs on day # 6
